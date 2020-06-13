@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1591894572 source:e:\dsa project\contact book simulation\demo.cpp
+	<iostream>
+	<ctime>
+	"demo.h"
+
+1591455157 e:\dsa project\contact book simulation\demo.h
+
+1592028349 source:e:\dsa project\contact book simulation\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"demo.h"
+
